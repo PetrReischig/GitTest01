@@ -1,2 +1,3 @@
-Prvni soubor obsah
+Prvni soubor obsah master
 Druha radka
+Master line added
