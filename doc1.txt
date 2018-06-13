@@ -1,3 +1,4 @@
-Prvni soubor obsah master
+Prvni soubor obsah branch3 master
 Druha radka
+Branch 3 added
 Master line added
