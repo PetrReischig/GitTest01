@@ -1,5 +1,6 @@
 Prvni soubor obsah branch2 branch3 master
 Branch 2 add
 Druha radka
+Treti
 Branch 3 added
 Master line added
